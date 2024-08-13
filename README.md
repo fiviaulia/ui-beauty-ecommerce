@@ -1,7 +1,7 @@
 # Urfioley Sales Application
 
-![](images/urfioley.png)
-![](images/ss.png)
+![](images/urfioley.jpg)
+![](images/ss.jpg)
 
 ## Getting Started
 
